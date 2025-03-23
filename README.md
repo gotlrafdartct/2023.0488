@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Data Files
 
-The original data for our paper was shared by our collaborating government department and contains private information; therefore, it is confidential. 
+The original data for our paper was obtained from a government department and contains private information; therefore, it is confidential. 
 
 To support replication, we provide a synthetic dataset in the file `sample.csv`.
 
