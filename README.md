@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 The original data for our paper was obtained from a government department and contains private information; therefore, it is confidential. 
 
-To support replication, we provide a synthetic dataset in the file `sample.csv`.
+To support replication, we provide a synthetic dataset in the file `/Data/sample.csv`.
 
 ## Code Files
 
