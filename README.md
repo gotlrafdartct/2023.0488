@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 The original data for our paper was obtained from a government department and contains private information; therefore, it is confidential. 
 
-To support replication, we provide a synthetic dataset in the file `/Data/sample.csv`.
+To support replication, we provide a synthetic dataset in the file `/data/sample.csv`.
 
 ## Code Files
 
@@ -62,7 +62,7 @@ There are 2 source code files (in `/src`).
 
 ## Result Files
 
-There are four types of result files (in `/Results`).
+There are four types of result files (in `/results`).
 
 `/BNStructure`: This folder contains the structure of the learned Greedy Bayes network model.
 
