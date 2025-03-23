@@ -11,10 +11,6 @@ that were used in the research reported on in the paper
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2023.0488) and the software, using the following DOI.
-
-https://doi.org/10.1287/ijoc.2023.0488.cd
-
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
