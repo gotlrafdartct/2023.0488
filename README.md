@@ -54,7 +54,7 @@ To support replication, we provide a synthetic dataset in the file `/Data/sample
 
 ## Code Files
 
-There are 2 source code files.
+There are 2 source code files (in `/src`).
 
 `Data_Synthesizer_for_Preserving_Privacy.py`: It includes the construction of the Greedy Bayes network model (Algorithm 1 in DataLearner), the computation of noisy conditional probabilities (Algorithm 2 in DataLearner), the implementation of the DataGenerator, and the analysis of information loss.
 
