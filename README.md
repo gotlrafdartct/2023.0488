@@ -62,13 +62,13 @@ There are 2 source code files.
 
 ## Result Files
 
-There are four types of result files (in `/Results/`).
+There are four types of result files (in `/Results`).
 
-`/BNStructure/`: This folder contains the structure of the learned Greedy Bayes network model.
+`/BNStructure`: This folder contains the structure of the learned Greedy Bayes network model.
 
-`/AttributeUniqueValues/`: This folder contains the unique values of each feature for data generation.
+`/AttributeUniqueValues`: This folder contains the unique values of each feature for data generation.
 
-`/NoisyConditionalProbability/`: This folder contains the learned noisy conditional probability distributions.
+`/NoisyConditionalProbability`: This folder contains the learned noisy conditional probability distributions.
 
-`/PrivatePreservingDataset/`: This folder contains the generated synthetic dataset.
+`/PrivatePreservingDataset`: This folder contains the generated synthetic dataset.
 
